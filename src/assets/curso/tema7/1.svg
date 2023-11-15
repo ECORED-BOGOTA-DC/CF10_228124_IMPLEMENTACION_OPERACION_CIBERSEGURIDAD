@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="85" height="97" viewBox="0 0 85 97">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1" y1="0.5" x2="0" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffb206"/>
+      <stop offset="1" stop-color="#ffb206" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e01650"/>
+      <stop offset="1" stop-color="#e01650" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="Grupo_1064968" data-name="Grupo 1064968" transform="translate(-180 -447)">
+    <rect id="Rectángulo_373439" data-name="Rectángulo 373439" width="46" height="14" transform="translate(219 447)" fill="url(#linear-gradient)"/>
+    <rect id="Rectángulo_373440" data-name="Rectángulo 373440" width="52" height="14" transform="translate(180 530)" fill="url(#linear-gradient-2)"/>
+    <g id="Grupo_1064996" data-name="Grupo 1064996" transform="translate(186.323 461.683)">
+      <path id="Trazado_779107" data-name="Trazado 779107" d="M36.048,2H34.781C29.283,11.322,17.4,16.357,6,10.881V24.9c0,21.066,12.071,39.5,29.415,44.982C52.758,64.45,64.83,46.02,64.83,24.955V10.881c-11.4,5.476-23.283.441-28.781-8.881Zm10.68,46.86H24.1V33.021H46.728Z" transform="translate(0.263 0.263)" fill="#ffb206"/>
+      <path id="Trazado_779108" data-name="Trazado 779108" d="M33.576,15.47a9.051,9.051,0,0,0-9.051,9.051v4.525H20V49.41H47.152V29.046H42.627V24.521A9.051,9.051,0,0,0,33.576,15.47Zm-4.525,9.051a4.525,4.525,0,0,1,9.051,0v4.525H29.051Zm13.576,9.051V44.885h-18.1V33.571Z" transform="translate(2.101 2.032)"/>
+      <path id="Trazado_779109" data-name="Trazado 779109" d="M30,34.41h4.525v4.514H30Z" transform="translate(3.415 4.519)"/>
+      <path id="Trazado_779110" data-name="Trazado 779110" d="M38.268,1.131,37.612,0H33.743l-.656,1.131C22.486,19.233,4.362,7.6,4,7.58v17.6C4,63.491,35.564,72.315,35.677,72.406c.215-.136,20.172-4.853,28.6-28.951H59.436c-4.446,11.54-13.01,20.579-23.758,24.211C19.658,62.28,8.525,44.925,8.525,25.184V14.5A24.335,24.335,0,0,0,35.677,5.453,24.335,24.335,0,0,0,62.83,14.5v10.68a51.363,51.363,0,0,1-1.867,13.746h4.684a56.137,56.137,0,0,0,1.708-13.746V7.58c-.238.023-18.543,11.506-29.087-6.449Z"/>
+    </g>
+  </g>
+</svg>
