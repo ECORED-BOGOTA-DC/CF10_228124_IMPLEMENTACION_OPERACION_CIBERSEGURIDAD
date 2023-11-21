@@ -23,7 +23,7 @@
           figure.col-lg-10.col-md-7.col-7.m-auto
             img(src="@/assets/curso/tema6/2.svg")
           h5.mt-5 Periodicidad de las auditorías
-          p.mt-4 Se debe tratar de una comprobación cíclica o periódica ya que de esta manera aporta nueva información cada espacio breve de tiempo.
+          p.mt-4 Se debe tratar de una comprobación cíclica o periódica, ya que de esta manera aporta nueva información cada espacio breve de tiempo.
       .col-lg.mb-4.mb-lg-0.col-md-9
         .h-100.p-4.p-lg-5.text-white.cont_tarjeta1(style="background: linear-gradient(0deg, rgba(80,12,117,1) 70%, rgba(255,255,255,1) 70%); border-radius:15px;" data-aos="zoom-in-up")
           figure.col-lg-10.col-md-7.col-7.m-auto

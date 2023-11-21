@@ -28,49 +28,49 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Técnicas de planificación',
+        titulo: 'Finalidad de las pruebas',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Entrenamiento y concienciación en ciberseguridad',
+        titulo: 'Pruebas y análisis',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Defensa en profundidad',
+        titulo: 'Tipos de pruebas de efectividad',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema4',
         numero: '4',
-        titulo: 'Defensa en profundidad',
+        titulo: 'Procedimiento de ejecución de pruebas de efectividad',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema5',
         numero: '5',
-        titulo: 'Defensa en profundidad',
+        titulo: 'Alcance de las pruebas',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema6',
         numero: '6',
-        titulo: 'Defensa en profundidad',
+        titulo: 'La auditoría en la ciberseguridad',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema7',
         numero: '7',
-        titulo: 'Defensa en profundidad',
+        titulo: 'Pasos de la auditoría en ciberseguridad',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema8',
         numero: '8',
-        titulo: 'Defensa en profundidad',
+        titulo: 'Tipos de auditorías',
         desarrolloContenidos: true,
       },
     ],
@@ -148,7 +148,7 @@ export default {
     {
       termino: 'Modelado de amenazas',
       significado:
-        'esta acción establece la relación entre el atacante y el activo intentando definir el beneficio que puede alcanzar el atacante si logra penetrar el sistema y afectar la información de alguna manera.',
+        'esta acción establece la relación entre el atacante y el activo, intentando definir el beneficio que puede alcanzar el atacante si logra penetrar el sistema y afectar la información de alguna manera.',
     },
     {
       termino: 'Pruebas de efectividad',
@@ -177,7 +177,7 @@ export default {
     {
       referencia:
         'Organización Internacional de Normalización (ISO, 2013). Tecnología de la información - Técnicas de seguridad - Sistemas de gestión de seguridad de la información - Requisitos. (ISO 27001).',
-      link: 'https://www.iso.org/standard/54534.html',
+      link: '',
     },
   ],
   creditos: [
@@ -193,7 +193,7 @@ export default {
           nombre: 'Liliana Victoria Morales Gualdrón',
           cargo: 'Responsable de línea de producción',
           centro:
-            'Regional Distrito Capital - Centro de gestión de mercados, Logística y Tecnologías de la información',
+            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
       ],
     },
@@ -201,44 +201,36 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Rafael Neftalí Lizcano Reyes',
-          cargo: 'Asesoría metodológica y pedagógica',
-          centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
-        },
-        {
-          nombre: 'Pablo Cesar Pardo Ortiz',
+          nombre: 'Zuleidy María Ruiz Torres',
           cargo: 'Experto temático',
-          centro:
-            'Regional Cauca - Centro de Teleinformática y Producción Industrial',
+          centro: 'Centro Comercio y Servicios- Regional Tolima',
         },
         {
-          nombre: 'Fabián Leonardo Correa Díaz',
-          cargo: 'Diseño instruccional',
-          centro: 'Regional Tolima - Centro agropecuario La Granja',
+          nombre: 'Gloria Alexandra Orejarena Barrios',
+          cargo: 'Asesoría metodológica y pedagógica',
+          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
         },
         {
-          nombre: 'Carolina Coca Salazar',
-          cargo: 'Revisor Metodológico y pedagógico',
-          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+          nombre: 'Rafael Neftalí Lizcano Reyes',
+          cargo: 'Responsable equipo de desarrollo curricular',
+          centro: 'Responsable equipo de desarrollo curricular',
         },
         {
-          nombre: 'Sandra Patricia Hoyos Sepúlveda',
+          nombre: 'José Gabriel Ortiz Abella',
           cargo: 'Corrección de estilo',
-          centro:
-            'Regional Distrito Capital - Centro para la Industria de la Comunicación Gráfica',
-        },
-        {
-          nombre: 'Gloria Amparo López Escudero',
-          cargo: 'Adecuación instruccional',
-          centro:
-            'Regional Distrito Capital - Centro de gestión de mercados, Logística y Tecnologías de la información',
+          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
         },
         {
           nombre: 'Alix Cecilia Chinchilla Rueda',
-          cargo: 'Metodología para la formación virtual',
+          cargo: 'Asesoría metodológica y pedagógica',
           centro:
-            'Regional Distrito Capital - Centro de gestión de mercados, Logística y Tecnologías de la información',
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Nelly Parra Guarín',
+          cargo: 'Adecuación instruccional',
+          centro:
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
       ],
     },
@@ -249,31 +241,31 @@ export default {
           nombre: 'Yazmin Rocio Figueroa Pacheco',
           cargo: 'Diseño web',
           centro:
-            'Regional Distrito Capital - Centro de gestión de mercados, Logística y Tecnologías de la información',
+            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
           nombre: 'Luis Jesús Pérez Madariaga',
           cargo: 'Desarrollo Fullstack',
           centro:
-            'Regional Distrito Capital - Centro de gestión de mercados, Logística y Tecnologías de la información',
+            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
           nombre: 'Ernesto Navarro Jaimes',
           cargo: 'Animación y Producción audiovisual',
           centro:
-            'Regional Distrito Capital - Centro de gestión de mercados, Logística y Tecnologías de la información',
+            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
           nombre: 'Lady Adriana Ariza Luque',
           cargo: 'Animación y Producción audiovisual',
           centro:
-            'Regional Distrito Capital - Centro de gestión de mercados, Logística y Tecnologías de la información',
+            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
           nombre: 'Laura Gisselle Murcia Pardo',
           cargo: 'Animación y Producción audiovisual',
           centro:
-            'Regional Distrito Capital - Centro de gestión de mercados, Logística y Tecnologías de la información',
+            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
       ],
     },
@@ -284,20 +276,20 @@ export default {
           nombre: 'Carolina Coca Salazar',
           cargo: 'Evaluación de contenidos inclusivos y accesibles',
           centro:
-            'Regional Distrito Capital - Centro de gestión de mercados, Logística y Tecnologías de la información',
+            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
           nombre: 'Lina Marcela Pérez Manchego',
           cargo: 'Validación de recursos educativos digitales',
           centro:
-            'Regional Distrito Capital - Centro de gestión de mercados, Logística y Tecnologías de la información',
+            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
           nombre: 'Leyson Fabián Castaño Pérez',
           cargo:
             'Validación de recursos educativos digitales y vinculación LMS',
           centro:
-            'Regional Distrito Capital - Centro de gestión de mercados, Logística y Tecnologías de la información',
+            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
       ],
     },

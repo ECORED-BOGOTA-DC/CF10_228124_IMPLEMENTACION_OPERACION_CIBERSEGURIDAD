@@ -36,7 +36,7 @@
           .tarjeta-numerada__numero
             .h2.text-white 3
           p.fw-bold Auditoría de código
-          p.mb-0 Por una parte, las auditorías de código son pruebas de calidad sobre aplicaciones informáticas (a nivel de código fuente) que permiten conocer e identificar posibles vulnerabilidades en cualquier tipo de software.
+          p.mb-0 Por una parte, las auditorías de código son pruebas de calidad sobre aplicaciones informáticas (a nivel de código fuente) que permiten conocer e identificar posibles vulnerabilidades en cualquier tipo de #[em software].
       .col-md-6.col-lg-4.mb-4
         .tarjeta-numerada.color-secundario.p-5.h-100(style="box-shadow:0px 4px 10px rgba(0,0,0,.1);" data-aos="zoom-in-up")
           .tarjeta-numerada__numero
@@ -57,7 +57,7 @@
           p.mb-0 La seguridad de la red, ha de ser una prioridad para la organización, más aún en un internet que se encuentra plagado de ataques externos. Hacer un mapeo de la red, con el fin de descubrir todos los dispositivos conectados, es en lo que se centrará este tipo de auditoría.
     
     h4.mt-5.p-3.pe-5.mb-5(style="background: linear-gradient(90deg, rgba(255,178,6,1) 0%, rgba(255,255,255,1) 100%);max-width:fit-content;border-left:8px #500C75 solid;" data-aos="fade-right") Auditorías según información proporcionada
-    p(data-aos="fade-left") Este tipo de auditorías están clasificadas en tres y las puede detallar a mayor profundidad a continuación :
+    p(data-aos="fade-left") Este tipo de auditorías están clasificadas en tres y las puede detallar a mayor profundidad a continuación:
 
     .row.mt-5.justify-content-center
       .col-lg.mb-4.mb-lg-0.col-md-9(data-aos="zoom-in-up")

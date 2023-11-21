@@ -50,7 +50,7 @@
             img(src='@/assets/curso/tema4/2.png')
       .row.col-lg-11.m-auto(titulo="Modelado de amenazas")
         .col-md-6.mb-4.mb-md-0.col-lg-8
-          p Esta acción establece la relación entre el atacante y el activo intentando definir el beneficio que puede alcanzar el atacante si logra penetrar el sistema y afectar la información de alguna manera.
+          p Esta acción establece la relación entre el atacante y el activo, intentando definir el beneficio que puede alcanzar el atacante si logra penetrar el sistema y afectar la información de alguna manera.
         .col-md-6.col-lg-4
           figure.col-7.m-auto.col-md-12
             img(src='@/assets/curso/tema4/3.png')
