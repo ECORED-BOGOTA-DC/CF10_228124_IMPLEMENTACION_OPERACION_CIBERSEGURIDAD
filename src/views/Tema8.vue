@@ -10,7 +10,7 @@
     .row
       .col-auto.d-none.d-md-block(data-aos="fade-right" style="place-self:center;")
         figure
-          img(src="@/assets/curso/tema8/1.svg")
+          img(src="@/assets/curso/tema8/1.svg" alt="Imagen decorativa")
       .col(data-aos="fade-left" style="place-self:center;")
         p.mb-0 Las auditorías pueden ser de tipo externas o internas. Se diferencian dependiendo de quién realiza la auditoría; si lo realizan compañías independientes de la organización se consideran auditorías externas y cuando son realizadas por personas que trabajan en la propia organización se denominan auditorías internas.
         p.mt-4.mb-0 Las auditorías en ciberseguridad pueden clasificarse según el objetivo que persiguen o según la información proporcionada, esto es:
@@ -29,7 +29,7 @@
         .tarjeta-numerada.color-primario.p-5.h-100(style="box-shadow:0px 4px 10px rgba(0,0,0,.1);" data-aos="zoom-in-up")
           .tarjeta-numerada__numero
             .h2 2
-          p.fw-bold Auditoría #[em web]
+          p.fw-bold Auditoría web
           p.mb-0 Se trata de auditorías que tienen como objetivo conocer la seguridad de aplicaciones y páginas web que nos permitan descubrir cualquier tipo de fallo o vulnerabilidad en la implementación de los mismos.
       .col-md-6.col-lg-4.mb-4
         .tarjeta-numerada.color-secundario.p-5.h-100(style="box-shadow:0px 4px 10px rgba(0,0,0,.1);" data-aos="zoom-in-up")
@@ -41,8 +41,8 @@
         .tarjeta-numerada.color-secundario.p-5.h-100(style="box-shadow:0px 4px 10px rgba(0,0,0,.1);" data-aos="zoom-in-up")
           .tarjeta-numerada__numero
             .h2.text-white 4
-          p.fw-bold Auditoria de #[em Hacking] ético
-          p.mb-0 Son un test de intrusión que intenta utilizar las mismas técnicas de #[em hacking] y herramientas que los atacantes para, de esta manera, poner a prueba la seguridad informática. La forma de comprobar las medidas de seguridad es poniéndolas a prueba y para ello surge este servicio.
+          p.fw-bold Auditoria de #[em hacking] ético
+          p.mb-0 Son un #[em test] de intrusión que intenta utilizar las mismas técnicas de #[em hacking] y herramientas que los atacantes para, de esta manera, poner a prueba la seguridad informática. La forma de comprobar las medidas de seguridad es poniéndolas a prueba y para ello surge este servicio.
       .col-md-6.col-lg-4.mb-4
         .tarjeta-numerada.color-acento-contenido.p-5.h-100(style="box-shadow:0px 4px 10px rgba(0,0,0,.1);" data-aos="zoom-in-up")
           .tarjeta-numerada__numero
@@ -63,19 +63,19 @@
       .col-lg.mb-4.mb-lg-0.col-md-9(data-aos="zoom-in-up")
         .h-100.p-4.pt-5.pb-5.text-white(style="background-color:#500C75;border-radius:20px;")
           figure
-            img(src="@/assets/curso/tema8/2.svg" style="max-width:90px;")
+            img(src="@/assets/curso/tema8/2.svg" style="max-width:90px;" alt="Imagen decorativa")
           h5.mt-3 Auditoría de caja blanca
           p.mt-4 En este tipo de auditorías, los auditores tienen todo el conocimiento y los accesos por adelantado de los elementos e infraestructuras que se van a analizar.
       .col-lg.mb-4.mb-lg-0.col-md-9(data-aos="zoom-in-up")
         .h-100.p-4.pt-5.pb-5.text-white(style="background-color:#8F52F5;border-radius:20px;")
           figure
-            img(src="@/assets/curso/tema8/3.svg" style="max-width:90px;")
+            img(src="@/assets/curso/tema8/3.svg" style="max-width:90px;" alt="Imagen decorativa")
           h5.mt-3 Auditorías de caja gris
           p.mt-4 Los auditores tienen un acceso limitado a los sistemas y datos de la organización. Para realizar este tipo de auditorías lo que se hace es simular un ciberataque interno (como si fuera un empleado) con malas intenciones.
       .col-lg.mb-4.mb-lg-0.col-md-9(data-aos="zoom-in-up")
         .h-100.p-4.pt-5.pb-5.text-white(style="background-color:#8D29C3;border-radius:20px;")
           figure
-            img(src="@/assets/curso/tema8/4.svg" style="max-width:90px;")
+            img(src="@/assets/curso/tema8/4.svg" style="max-width:90px;" alt="Imagen decorativa")
           h5.mt-3 Auditorías de caja negra
           p.mt-4 No se tiene conocimiento de ningún tipo de información ni de acceso. Aquí el auditor parte desde el principio y va a intentar descubrir las posibles formas de lograr entrar en el sistema interno desde fuera de la empresa. En este caso el ciberataque que se va a simular es externo.
 

@@ -10,7 +10,7 @@
     .row
       .col-lg-4.mb-4.mb-lg-0(data-aos="fade-right" style="place-self:center;")
         figure.m-auto.col-7.col-md-8.col-lg-12
-          img(src="@/assets/curso/tema2/1.png")
+          img(src="@/assets/curso/tema2/1.png" alt="Imagen decorativa")
       .col-lg-8(data-aos="fade-left" style="place-self:center;")
         p Mediante las pruebas y análisis, las entidades identifican los diferentes riesgos que se muestran por las debilidades en la implementación del modelo de seguridad y de privacidad de la información y las vulnerabilidades que se manifiestan dada la ausencia de controles de seguridad que logren mitigar riesgos.
         .cajon.mt-4.p-4.color-acento-contenido(style="background-color:#FFE8B3;")

@@ -13,7 +13,7 @@
     ImagenInfografica.color-acento-contenido.mt-5(data-aos="zoom-in-up")
       template(v-slot:imagen)
         figure
-          img(src='@/assets/curso/tema5/1.svg')
+          img(src='@/assets/curso/tema5/1.svg' alt="Imagen decorativa")
       .tarjeta.color-acento-botones.p-3(x="22%" y="51%" numero="+" style="background-color:#500C75;box-shadow:0px 0px 15px rgba(0,0,0,.2);")
         p.mb-0.fw-bold Multas o sanciones
         p.mb-0.mt-2 En caso de incumplir los parámetros anteriormente mencionados, deberán fijarse las sanciones disciplinarias o multas a que haya lugar.

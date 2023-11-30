@@ -10,7 +10,7 @@
     .row
       .col-auto.d-none.d-md-block(data-aos="fade-right" style="place-self:center;")
         figure
-          img(src="@/assets/curso/tema7/1.svg")
+          img(src="@/assets/curso/tema7/1.svg" alt="Imagen decorativa")
       .col(data-aos="fade-left" style="place-self:center;")
         p.mb-0 Las auditorías de los sistemas de gestión de la seguridad de la información, deben ser establecidas teniendo en cuenta algunas condiciones que favorecen, rotundamente, tanto su construcción como su desarrollo.
         p.mt-4.mb-0 Profundice en los pasos que se deben seguir para la auditoría en ciberseguridad, explorando la información que se expone a continuación:
@@ -19,14 +19,14 @@
       ImagenInfografica.color-acento-contenido(data-aos="zoom-in-up")
         template(v-slot:imagen)
           figure
-            img(src='@/assets/curso/tema7/2.svg')
+            img(src='@/assets/curso/tema7/2.svg' alt="Imagen decorativa")
         .tarjeta.color-acento-botones.p-3(x="10%" y="99%" numero="+" style="background-color:#E8DDC2;box-shadow:0px 0px 15px rgba(0,0,0,.2);")
           p.mb-0(style="color:inherit;") Se debe establecer el objetivo de la auditoría de ciberseguridad a realizar. No es lo mismo hacer una auditoría para validar una norma, que realizar una, para comprobar que se está cumpliendo la política de ciberseguridad exigida.
         .tarjeta.color-acento-botones.p-3(x="30%" y="99%" numero="+" style="background-color:#E8DDC2;box-shadow:0px 0px 15px rgba(0,0,0,.2);")
           p.mb-0(style="color:inherit;") Con objetivos de auditoría claros, se proyectan los pasos por seguir. Se establecen servicios por auditar y se identifican los sistemas operativos instalados en la organización.
         .tarjeta.color-acento-botones.p-3(x="50%" y="99%" numero="+" style="background-color:#E8DDC2;box-shadow:0px 0px 15px rgba(0,0,0,.2);")
           p.mb-0(style="color:inherit;") Recopilar toda la información posible para valorar funcionamiento en el área  de TI de la organización, las tecnologías, políticas y protocolos que son el objetivo de la auditoría de ciberseguridad.
-          p.mb-0(style="color:inherit;") Pueden aplicarse entrevistas con empleados, analizando las especificaciones del software y el hardware, revisando documentación,  utilizando herramientas para medir la seguridad de los sistemas y vulnerabilidades con los que cuenta la organización.
+          p.mb-0(style="color:inherit;") Pueden aplicarse entrevistas con empleados, analizando las especificaciones del #[em(style="color:inherit;") software] y el #[em(style="color:inherit;") hardware], revisando documentación,  utilizando herramientas para medir la seguridad de los sistemas y vulnerabilidades con los que cuenta la organización.
         .tarjeta.color-acento-botones.p-3(x="70%" y="99%" numero="+" style="background-color:#E8DDC2;box-shadow:0px 0px 15px rgba(0,0,0,.2);")
           p.mb-0(style="color:inherit;") Se examina la información recolectada para encontrar las vulnerabilidades y fallos en los sistemas de la organización.
         .tarjeta.color-acento-botones.p-3(x="90%" y="99%" numero="+" style="background-color:#E8DDC2;box-shadow:0px 0px 15px rgba(0,0,0,.2);")

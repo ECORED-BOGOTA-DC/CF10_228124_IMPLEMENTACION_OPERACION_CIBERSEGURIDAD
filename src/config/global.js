@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Evaluación de los controles de ciberseguridad',
     descripcionCurso:
-      'Mediante el estudio juicioso de este componente formativo, el aprendiz estará capacitado para reconocer aspectos importantes de la evaluación de las estrategias de ciberseguridad y su aplicación, estimando el diagnóstico, diseño, monitoreo y operación de la misma. Así mismo, podrá realizar un informe basado en la auditoría de dicha operación.',
+      'Mediante el estudio de este componente formativo, el aprendiz estará capacitado para reconocer aspectos importantes de la evaluación de las estrategias de ciberseguridad y su aplicación, estimando el diagnóstico, diseño, monitoreo y operación de la misma. Así mismo, podrá realizar un informe basado en la auditoría de dicha operación.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -124,7 +124,7 @@ export default {
       tema: '4. Procedimiento de ejecución de pruebas de efectividad.',
       referencia:
         'Ministerio de Tecnologías de la Información y Comunicaciones (2016). <em>Guía Metodológica de Pruebas de Efectividad</em>.',
-      tipo: 'Otro: Guía técnica',
+      tipo: 'Guía técnica',
       link:
         'https://www.mintic.gov.co/gestionti/615/articles-5482_G1_Metodologia_pruebas_efectividad.pdf',
     },
@@ -176,8 +176,8 @@ export default {
     },
     {
       referencia:
-        'Organización Internacional de Normalización (ISO, 2013). Tecnología de la información - Técnicas de seguridad - Sistemas de gestión de seguridad de la información - Requisitos. (ISO 27001).',
-      link: '',
+        'Organización Internacional de Normalización (ISO 2013). Tecnología de la información - Técnicas de seguridad - Sistemas de gestión de seguridad de la información - Requisitos. (ISO 27001).',
+      link: 'https://www.iso.org/standard/27001',
     },
   ],
   creditos: [
@@ -201,34 +201,42 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Zuleidy María Ruiz Torres',
-          cargo: 'Experto temático',
-          centro: 'Centro Comercio y Servicios- Regional Tolima',
-        },
-        {
-          nombre: 'Gloria Alexandra Orejarena Barrios',
-          cargo: 'Asesoría metodológica y pedagógica',
-          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
-        },
-        {
           nombre: 'Rafael Neftalí Lizcano Reyes',
-          cargo: 'Responsable equipo de desarrollo curricular',
-          centro: 'Responsable equipo de desarrollo curricular',
-        },
-        {
-          nombre: 'José Gabriel Ortiz Abella',
-          cargo: 'Corrección de estilo',
-          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
-        },
-        {
-          nombre: 'Alix Cecilia Chinchilla Rueda',
           cargo: 'Asesoría metodológica y pedagógica',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        },
+        {
+          nombre: 'Pablo Cesar Pardo Ortiz',
+          cargo: 'Experto temático',
+          centro:
+            'Centro de Teleinformática y Producción Industrial- Regional Cauca',
+        },
+        {
+          nombre: 'Fabián Leonardo Correa Díaz',
+          cargo: 'Diseño instruccional',
+          centro: 'Centro agropecuario La Granja - Regional Tolima',
+        },
+        {
+          nombre: 'Carolina Coca Salazar',
+          cargo: 'Revisor Metodológico y pedagógico',
+          centro: 'Centro de Diseño y Metrología- Regional Distrito Capital',
+        },
+        {
+          nombre: 'Sandra Patricia Hoyos Sepúlveda',
+          cargo: 'Corrección de estilo',
+          centro:
+            'Centro para la Industria de la Comunicación Gráfica- Regional Distrito Capital',
+        },
+        {
+          nombre: 'Gloria Amparo López Escudero',
+          cargo: 'Adecuación instruccional',
           centro:
             'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
-          nombre: 'Nelly Parra Guarín',
-          cargo: 'Adecuación instruccional',
+          nombre: 'Alix Cecilia Chinchilla Rueda',
+          cargo: 'Metodología para la formación virtual',
           centro:
             'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },

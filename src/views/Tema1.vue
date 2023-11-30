@@ -14,16 +14,16 @@
           p.mb-0 Tales metodologías se desarrollan en diferentes etapas, ayudando a definir qué tanto ha avanzado la organización con la implementación del modelo. Así pues, por medio de la valoración de diferentes aspectos, se podrán identificar también vulnerabilidades y amenazas, a las cuales está expuesta la organización, de igual manera que las debilidades de los controles implementados. 
       .col-lg-4(data-aos="fade-left")
         figure.m-auto.col-7.col-md-8.col-lg-12
-          img(src="@/assets/curso/tema1/1.svg")
+          img(src="@/assets/curso/tema1/1.svg" alt="Imagen decorativa")
     
     p.mt-4(data-aos="fade-right") A continuación, se presentan las etapas del procedimiento de las pruebas, según lo estipulado por la Guía metodológica de pruebas de efectividad, del MINTIC:
 
-    h4.mt-5.p-3.pe-5.mb-5(style="background: linear-gradient(90deg, rgba(255,178,6,1) 0%, rgba(255,255,255,1) 100%);max-width:fit-content;border-left:8px #500C75 solid;" data-aos="fade-right") Etapas de las pruebas de efectividad
+    h4.mt-5.p-3.pe-5.mb-5(style="background: linear-gradient(90deg, rgba(255,178,6,1) 0%, rgba(255,255,255,1) 100%);max-width:fit-content;border-left:8px #500C75 solid;" data-aos="fade-right") Etapa de las pruebas de efectividad
 
     .row.mt-5
       .col-xl-2.col-lg-3.col-md-5.mb-4.mb-lg-0(data-aos="fade-right" style="place-self:center;")
         figure.m-auto.col-4.col-md-12
-          img(src="@/assets/curso/tema1/2.png")
+          img(src="@/assets/curso/tema1/2.png" alt="Imagen decorativa")
       .col-xl-10.col-lg-9.col-md-7(data-aos="fade-left" style="place-self:center;")
         h5 Fase de levantamiento de información
         p.mt-4 Etapa en la que la organización hace recopilación de toda la información requerida para dar inicio a la actividad; esta información podrá estar organizada por el equipo de seguridad con el que cuente la empresa o compañía.
@@ -36,7 +36,7 @@
     .row.mt-5
       .col-xl-2.col-lg-3.col-md-5.mb-4.mb-lg-0(data-aos="fade-right" style="place-self:center;")
         figure.m-auto.col-4.col-md-12
-          img(src="@/assets/curso/tema1/3.png")
+          img(src="@/assets/curso/tema1/3.png" alt="Imagen decorativa")
       .col-xl-10.col-lg-9.col-md-7(data-aos="fade-left" style="place-self:center;")
         p.mt-4 Cuando se habla de revisiones, se está haciendo referencia a aquellos procesos de inspección de los distintos manuales que la organización ha de realizar, para lograr la identificación de lo comprendido por los servidores públicos en seguridad, de lo realizado en seguridad en los procesos y, adicionalmente, el estado en que se encuentran las políticas institucionales.
         .p-4.mt-4(style="background-color:#D2C5D8;border-radius:10px;")
@@ -48,7 +48,7 @@
     .row.mt-5
       .col-xl-2.col-lg-3.col-md-5.mb-4.mb-lg-0(data-aos="fade-right" style="place-self:center;")
         figure.m-auto.col-4.col-md-12
-          img(src="@/assets/curso/tema1/4.png")
+          img(src="@/assets/curso/tema1/4.png" alt="Imagen decorativa")
       .col-xl-10.col-lg-9.col-md-7(data-aos="fade-left" style="place-self:center;")
         p.mt-4 Se refiere a la evaluación misma del riesgo de seguridad en la organización. En otras palabras, es la evaluación de las distintas acciones y actividad en donde se han visto implicadas las personas, la infraestructura y los procesos. Todo ello, con el objetivo de lograr la identificación de las distintas amenazas que sobre la entidad pueden ocurrir.
         p.mt-4 Lo que resulte de la aplicación de estas actividades favorece que se desarrollen diferentes planes de mitigación de vulnerabilidades halladas; también ayuda a orientar mejor los recursos y la ayuda a las áreas de la organización que más lo estén necesitando. Buscar estas amenazas se debe dar desde el momento en que se crean los procesos y durante todo el ciclo de vida.
@@ -56,13 +56,13 @@
         .p-4.mt-4(style="background-color:#FFF4DC;border-radius:10px;")
           ul.lista-ul.mb-0
             li.d-flex
-              i.lista-ul__vineta
+              i.fas.fa-angle-right
               | Definir y clasificar los activos de la entidad, evaluando su criticidad, sus posibles vulnerabilidades técnicas, operacionales y de gestión.
             li.d-flex
-              i.lista-ul__vineta
+              i.fas.fa-angle-right
               | Desarrollar una matriz con las amenazas potenciales, con sus vectores de ataque.
-            li.d-flex.mb-0
-              i.lista-ul__vineta
+            li.d-flex
+              i.fas.fa-angle-right
               | Elaborar planes de mitigación para cada amenaza real.
         p.mt-4.mb-0 El resultado de todo esto puede ser una serie de documentos, listas o diagramas, en los cuales se plasman los análisis de riesgo de la entidad y sus planes de mitigación a través de los controles sugeridos.
 
