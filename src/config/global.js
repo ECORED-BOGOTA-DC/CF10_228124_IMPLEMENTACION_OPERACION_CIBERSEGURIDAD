@@ -176,7 +176,7 @@ export default {
     },
     {
       referencia:
-        'Organización Internacional de Normalización (ISO 2013). Tecnología de la información - Técnicas de seguridad - Sistemas de gestión de seguridad de la información - Requisitos. (ISO 27001).',
+        'Organización Internacional de Normalización (ISO 2013). <em>Tecnología de la información - Técnicas de seguridad - Sistemas de gestión de seguridad de la información - Requisitos</em>. (ISO 27001).',
       link: 'https://www.iso.org/standard/27001',
     },
   ],
@@ -193,7 +193,7 @@ export default {
           nombre: 'Liliana Victoria Morales Gualdrón',
           cargo: 'Responsable de línea de producción',
           centro:
-            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+            'Regional Distrito Capital - Centro de Gestión de Mercados, Logística y Tecnologías de la Información',
         },
       ],
     },
@@ -204,41 +204,41 @@ export default {
           nombre: 'Rafael Neftalí Lizcano Reyes',
           cargo: 'Asesoría metodológica y pedagógica',
           centro:
-            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
         {
           nombre: 'Pablo Cesar Pardo Ortiz',
           cargo: 'Experto temático',
           centro:
-            'Centro de Teleinformática y Producción Industrial- Regional Cauca',
+            'Regional Cauca - Centro de Teleinformática y Producción Industrial',
         },
         {
           nombre: 'Fabián Leonardo Correa Díaz',
           cargo: 'Diseño instruccional',
-          centro: 'Centro agropecuario La Granja - Regional Tolima',
+          centro: 'Regional Tolima - Centro agropecuario La Granja',
         },
         {
           nombre: 'Carolina Coca Salazar',
           cargo: 'Revisor Metodológico y pedagógico',
-          centro: 'Centro de Diseño y Metrología- Regional Distrito Capital',
+          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
         },
         {
           nombre: 'Sandra Patricia Hoyos Sepúlveda',
           cargo: 'Corrección de estilo',
           centro:
-            'Centro para la Industria de la Comunicación Gráfica- Regional Distrito Capital',
+            'Regional Distrito Capital - Centro para la Industria de la Comunicación Gráfica',
         },
         {
           nombre: 'Gloria Amparo López Escudero',
           cargo: 'Adecuación instruccional',
           centro:
-            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+            'Regional Distrito Capital - Centro de Gestión de Mercados, Logística y Tecnologías de la Información',
         },
         {
           nombre: 'Alix Cecilia Chinchilla Rueda',
           cargo: 'Metodología para la formación virtual',
           centro:
-            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+            'Regional Distrito Capital - Centro de Gestión de Mercados, Logística y Tecnologías de la Información',
         },
       ],
     },
@@ -249,31 +249,31 @@ export default {
           nombre: 'Yazmin Rocio Figueroa Pacheco',
           cargo: 'Diseño web',
           centro:
-            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+            'Regional Distrito Capital - Centro de Gestión de Mercados, Logística y Tecnologías de la Información',
         },
         {
           nombre: 'Luis Jesús Pérez Madariaga',
           cargo: 'Desarrollo Fullstack',
           centro:
-            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+            'Regional Distrito Capital - Centro de Gestión de Mercados, Logística y Tecnologías de la Información',
         },
         {
           nombre: 'Ernesto Navarro Jaimes',
           cargo: 'Animación y Producción audiovisual',
           centro:
-            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+            'Regional Distrito Capital - Centro de Gestión de Mercados, Logística y Tecnologías de la Información',
         },
         {
           nombre: 'Lady Adriana Ariza Luque',
           cargo: 'Animación y Producción audiovisual',
           centro:
-            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+            'Regional Distrito Capital - Centro de Gestión de Mercados, Logística y Tecnologías de la Información',
         },
         {
           nombre: 'Laura Gisselle Murcia Pardo',
           cargo: 'Animación y Producción audiovisual',
           centro:
-            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+            'Regional Distrito Capital - Centro de Gestión de Mercados, Logística y Tecnologías de la Información',
         },
       ],
     },
@@ -284,20 +284,20 @@ export default {
           nombre: 'Carolina Coca Salazar',
           cargo: 'Evaluación de contenidos inclusivos y accesibles',
           centro:
-            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+            'Regional Distrito Capital - Centro de Gestión de Mercados, Logística y Tecnologías de la Información',
         },
         {
           nombre: 'Lina Marcela Pérez Manchego',
           cargo: 'Validación de recursos educativos digitales',
           centro:
-            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+            'Regional Distrito Capital - Centro de Gestión de Mercados, Logística y Tecnologías de la Información',
         },
         {
           nombre: 'Leyson Fabián Castaño Pérez',
           cargo:
             'Validación de recursos educativos digitales y vinculación LMS',
           centro:
-            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+            'Regional Distrito Capital - Centro de Gestión de Mercados, Logística y Tecnologías de la Información',
         },
       ],
     },
