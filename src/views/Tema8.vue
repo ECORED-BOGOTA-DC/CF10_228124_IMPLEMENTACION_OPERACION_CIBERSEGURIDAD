@@ -36,7 +36,7 @@
           .tarjeta-numerada__numero
             .h2.text-white 3
           p.fw-bold Auditoría de código
-          p.mb-0 Por una parte, las auditorías de código son pruebas de calidad sobre aplicaciones informáticas (a nivel de código fuente) que permiten conocer e identificar posibles vulnerabilidades en cualquier tipo de #[em software].
+          p.mb-0 Son pruebas de calidad sobre aplicaciones informáticas (a nivel de código fuente) que permiten conocer e identificar posibles vulnerabilidades en cualquier tipo de <i>software</i>.
       .col-md-6.col-lg-4.mb-4
         .tarjeta-numerada.color-secundario.p-5.h-100(style="box-shadow:0px 4px 10px rgba(0,0,0,.1);" data-aos="zoom-in-up")
           .tarjeta-numerada__numero
